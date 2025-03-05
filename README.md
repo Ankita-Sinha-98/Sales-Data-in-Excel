@@ -1,4 +1,4 @@
-# Sales-Data-in-Excel
+# Sales-Data-Analysis-in-Excel
 Excel assignment to find out business insights from revenue and sales data for a company
 
 The questions answered in this Excel Workbook:
